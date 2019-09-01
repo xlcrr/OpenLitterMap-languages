@@ -1,364 +1,256 @@
 
 // smoking
         "types": {
-            "Cigarettes/Butts": {
-                "col": "butts"
-            },
-            "Lighters": {
-                "col": "lighters"
-            },
-            "Cigarette Box": {
-                "col": "cigaretteBox"
-            },
-            "Tobacco Pouch": {
-                "col": "tobaccoPouch"
-            },
-            "Rolling Papers": {
-                "col": "skins"
-            },
-            "Plastic Packaging": {
-                "col": "plastic"
-            },
-            "Filters": {
-                "col": "filters"
-            },
-            "Filter Box": {
-                "col": "filterbox"
-            },
-            "Smoking-Other": {
-                "col": "smokingOther"
-            }
+            "Cigarettes/Butts"
+
+            "Lighters"
+
+            "Cigarette Box"
+
+            "Tobacco Pouch"
+
+            "Rolling Papers"
+
+            "Plastic Packaging"
+
+            "Filters"
+
+            "Filter Box"
+
+            "Smoking-Other"
+
         }
 
     // alcohol
 
         "types": {
-            "Beer cans": {
-                "col": "beerCan"
-            },
-            "Glass bottles (Beer)": {
-                "col": "beerBottle"
-            },
-            "Glass bottles (Spirits)": {
-                "col": "spiritBottle"
-            },
-            "Glass bottles (Wine)": {
-                "col": "wineBottle"
-            },
-            "Broken glass": {
-                "col": "brokenGlass"
-            },
-            "Beer bottle tops": {
-                "col": "bottleTops"
-            },
-            "Paper Packaging": {
-                "col": "paperCardAlcoholPackaging"
-            },
-            "Plastic Packaging": {
-                "col": "plasticAlcoholPackaging"
-            },
-            "Pint Glass": {
-                "col": "pint"
-            },
-            "Alcohol-Other": {
-                "col": "alcoholOther"
-            }
+            "Beer cans"
+
+            "Glass bottles (Beer)"
+
+            "Glass bottles (Spirits)"
+
+            "Glass bottles (Wine)"
+
+            "Broken glass"
+
+            "Beer bottle tops"
+
+            "Paper Packaging"
+
+            "Plastic Packaging"
+
+            "Pint Glass"
+
+            "Alcohol-Other"
+
         }
 
     // coffee
                 "types": {
-            "Coffee Cups": {
-                "col": "coffeeCups"
-            },
-            "Coffee Lids": {
-                "col": "coffeeLids"
-            },
-            "Coffee-Other": {
-                "col": "coffeeOther"
-            }
+            "Coffee Cups"
+
+            "Coffee Lids"
+
+            "Coffee-Other"
+
         }
 
     // food
 
         "types": {
-            "Sweet Wrappers": {
-                "col": "sweetWrappers"
-            },
-            "Paper/Cardboard Packaging": {
-                "col": "paperFoodPackaging"
-            },
-            "Plastic Packaging": {
-                "col": "plasticFoodPackaging"
-            },
-            "Plastic Cutlery": {
-                "col": "plasticCutlery"
-            },
-            "Crisp/Chip Packet (small)": {
-                "col": "crisp_small"
-            },
-            "Crisp/Chip Packet (large)": {
-                "col": "crisp_large"
-            },
-            "Styrofoam": {
-                "col": "styrofoam_plate"
-            },
-            "Napkins": {
-                "col": "napkins"
-            },
-            "Sauce Packet": {
-                "col": "sauce_packet"
-            },
-            "Glass Jar": {
-                "col": "glass_jar"
-            },
-            "Glass Jar Lid": {
-                "col": "glass_jar_lid"
-            },
-            "Food-Other": {
-                "col": "foodOther"
-            }
+            "Sweet Wrappers"
+
+            "Paper/Cardboard Packaging"
+
+            "Plastic Packaging"
+
+            "Plastic Cutlery"
+
+            "Crisp/Chip Packet (small)"
+
+            "Crisp/Chip Packet (large)"
+
+            "Styrofoam"
+
+            "Napkins"
+
+            "Sauce Packet"
+
+            "Glass Jar"
+
+            "Glass Jar Lid"
+
+            "Food-Other"
+
         }
 
     // softdrinks 
 
          "types": {
-            "Plastic Water bottle": {
-                "col": "waterBottle"
-            },
-            "Plastic Fizzy Drink bottle": {
-                "col": "fizzyDrinkBottle"
-            },
-            "Can": {
-                "col": "tinCan"
-            },
-            "Pull-ring": {
-                "col": "pullring"
-            },
-            "Bottle Tops": {
-                "col": "bottleLid"
-            },
-            "Bottle Labels": {
-                "col": "bottleLabel"
-            },
-            "Sports Drink bottle": {
-                "col": "sportsDrink"
-            },
-            "Straws": {
-                "col": "straws"
-            },
-            "Straw Packaging": {
-                "col": "strawpacket"
-            },
-            "Plastic Cups": {
-                "col": "plastic_cups"
-            },
-            "Plastic Cup Tops": {
-                "col": "plastic_cup_tops"
-            },
-            "Milk Bottle": {
-                "col": "milk_bottle"
-            },
-            "Milk Carton": {
-                "col": "milk_carton"
-            },
-            "Paper Cups": {
-                "col": "paper_cups"
-            },
-            "Juice Cartons": {
-                "col": "juice_cartons"
-            },
-            "Juice Bottles": {
-                "col": "juice_bottles"
-            },
-            "Juice Packet": {
-                "col": "juice_packet"
-            },
-            "Ice Tea Bottles": {
-                "col": "ice_tea_bottles"
-            },
-            "Ice Tea Can": {
-                "col": "ice_tea_can"
-            },
-            "Energy Can": {
-                "col": "energy_can"
-            },
-            "Styrofoam Cup": {
-                "col": "styro_cup"
-            },
-            "Soft Drink (other)": {
-                "col": "softDrinkOther"
-            }
+            "Plastic Water bottle"
+
+            "Plastic Fizzy Drink bottle"
+
+            "Can"
+
+            "Pull-ring"
+
+            "Bottle Tops"
+
+            "Bottle Labels"
+
+            "Sports Drink bottle"
+
+            "Straws"
+
+            "Straw Packaging"
+
+            "Plastic Cups"
+
+            "Plastic Cup Tops"
+
+            "Milk Bottle"
+
+            "Milk Carton"
+
+            "Paper Cups"
+
+            "Juice Cartons"
+
+            "Juice Bottles"
+
+            "Juice Packet"
+
+            "Ice Tea Bottles"
+
+            "Ice Tea Can"
+
+            "Energy Can"
+
+            "Styrofoam Cup"
+
+            "Soft Drink (other)"
+
         }
 
     // sanitary 
 
     "types": {
-            "Condoms": {
-                "col": "condoms"
-            },
-            "Nappies": {
-                "col": "nappies"
-            },
-            "Menstral": {
-                "col": "menstral"
-            },
-            "Deodorant": {
-                "col": "deodorant"
-            },
-            "Ear Swabs": {
-                "col": "ear_swabs"
-            },
-            "Tooth Pick": {
-                "col": "tooth_pick"
-            },
-            "Tooth Brush": {
-                "col": "tooth_brush"
-            },
-            "Wet Wipes": {
-                "col": "wetwipes"
-            },
-            "Sanitary (other)": {
-                "col": "sanitaryOther"
-            }
+            "Condoms"
+
+            "Nappies"
+
+            "Menstral"
+
+            "Deodorant"
+
+            "Ear Swabs"
+
+            "Tooth Pick"
+
+            "Tooth Brush"
+
+            "Wet Wipes"
+
+            "Sanitary (other)"
+
         }
 
     // other 
 
     "types": {
-            "Illegal Dumping": {
-                "col": "dump"
-            },
-            "Pet Surprise": {
-                "col": "dogshit"
-            },
-            "Pet Surprise in a Bag": {
-                "col": "pooinbag"
-            },
-            "Unidentified Plastic": {
-                "col": "plastic"
-            },
-            "Life Buoy": {
-                "col": "life_buoy"
-            },
-            "Traffic Cone": {
-                "col": "traffic_cone"
-            },
-            "Automobile": {
-                "col": "automobile"
-            },
-            "Balloons": {
-                "col": "balloons"
-            },
-            "Batteries": {
-                "col": "batteries"
-            },
-            "Clothing": {
-                "col": "clothing"
-            },
-            "Electric small": {
-                "col": "elec_small"
-            },
-            "Electric large": {
-                "col": "elec_large"
-            },
-            "Metal Object": {
-                "col": "metal"
-            },
-            "Plastic Bags": {
-                "col": "plastic_bags"
-            },
-            "Election Posters": {
-                "col": "election_posters"
-            },
-            "For Sale Posters": {
-                "col": "forsale_posters"
-            },
-            "Books": {
-                "col": "books"
-            },
-            "Magazines": {
-                "col": "magazine"
-            },
-            "Paper": {
-                "col": "paper"
-            },
-            "Stationary": {
-                "col": "stationary"
-            },
-            "Washing-up Bottle": {
-                "col": "washing_up"
-            },
-            "Hair Tie": {
-                "col": "hair_tie"
-            },
-            "Ear Plugs (music)": {
-                "col": "ear_plugs"
-            },
-            "Other (other)": {
-                "col": "other"
-            }
+            "Illegal Dumping"
+
+            "Pet Surprise"
+
+            "Pet Surprise in a Bag"
+
+            "Unidentified Plastic"
+
+            "Life Buoy"
+
+            "Traffic Cone"
+
+            "Automobile"
+
+            "Balloons"
+
+            "Batteries"
+
+            "Clothing"
+
+            "Electric small"
+
+            "Electric large"
+
+            "Metal Object"
+
+            "Plastic Bags"
+
+            "Election Posters"
+
+            "For Sale Posters"
+
+            "Books"
+
+            "Magazines"
+
+            "Paper"
+
+            "Stationary"
+
+            "Washing-up Bottle"
+
+            "Hair Tie"
+
+            "Ear Plugs (music)"
+
+            "Other (other)"
+
         }
 
     // coastal 
 
     "types": {
-            "Microplastics": {
-                "col": "microplastics"
-            },
-            "Mediumplastics": {
-                "col": "mediumplastics"
-            },
-            "Macroplastics": {
-                "col": "macroplastics"
-            },
-            "Rope small": {
-                "col": "rope_small"
-            },
-            "Rope medium": {
-                "col": "rope_medium"
-            },
-            "Rope large": {
-                "col": "rope_large"
-            },
-            "Fishing gear/nets": {
-                "col": "fishing_gear_nets"
-            },
-            "Buoys": {
-                "col": "buoys"
-            },
-            "Degraded Plastic Bottle": {
-                "col": "degraded_plasticbottle"
-            },
-            "Degraded Plastic Bag": {
-                "col": "degraded_plasticbag"
-            },
-            "Degraded Drinking Straws": {
-                "col": "degraded_straws"
-            },
-            "Degraded Lighters": {
-                "col": "degraded_lighters"
-            },
-            "Balloons": {
-                "col": "balloons"
-            },
-            "Lego": {
-                "col": "lego"
-            },
-            "Shotgun Cartridges": {
-                "col": "shotgun_cartridges"
-            },
-            "Styrofoam small": {
-                "col": "styro_small"
-            },
-            "Styrofoam medium": {
-                "col": "styro_medium"
-            },
-            "Styrofoam large": {
-                "col": "styro_large"
-            },
-            "Coastal (other)": {
-                "col": "coastal_other"
-            }
+            "Microplastics"
+
+            "Mediumplastics"
+
+            "Macroplastics"
+
+            "Rope small"
+
+            "Rope medium"
+
+            "Rope large"
+
+            "Fishing gear/nets"
+
+            "Buoys"
+
+            "Degraded Plastic Bottle"
+
+            "Degraded Plastic Bag"
+
+            "Degraded Drinking Straws"
+
+            "Degraded Lighters"
+
+            "Balloons"
+
+            "Lego"
+
+            "Shotgun Cartridges"
+
+            "Styrofoam small"
+
+            "Styrofoam medium"
+
+            "Styrofoam large"
+
+            "Coastal (other)"
+
         }
 
         

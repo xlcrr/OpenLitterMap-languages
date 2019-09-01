@@ -65,7 +65,7 @@
         }
 
     // Kaffee
-                "types": {
+        "types": {
             "Kaffeebecher": {
                 "col": "coffeeCups"
             },
