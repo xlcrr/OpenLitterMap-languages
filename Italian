@@ -1,0 +1,361 @@
+// Fumo
+        "types": {
+            “Sigarette/Mozziconi”: {
+                "col": "butts"
+            },
+            “Accendini”: {
+                "col": "lighters"
+            },
+            “Scatole di sigarette“: {
+                "col": "cigaretteBox"
+            },
+            “Buste per il tabacco”: {
+                "col": "tobaccoPouch"
+            },
+            “Cartine”: {
+                "col": "skins"
+            },
+            “Imballaggi in plastica“: {
+                "col": "plastic"
+            },
+            "Filtri”: {
+                "col": "filters"
+            },
+            “Scatole dei filtri“: {
+                "col": "filterbox"
+            },
+            “Fumo (altro)”: {
+                "col": "smokingOther"
+            }
+        }
+
+    // Alcolici
+
+        "types": {
+            “Lattine di birra”: {
+                "col": "beerCan"
+            },
+            “Bottiglie di vetro (birra)”: {
+                "col": "beerBottle"
+            },
+            “Bottiglie di vetro (superalcolici)”: {
+                "col": "spiritBottle"
+            },
+            “Bottiglie di vetro (vino)”: {
+                "col": "wineBottle"
+            },
+            “Vetro rotto”: {
+                "col": "brokenGlass"
+            },
+            “Tappi di bottiglie di birra”: {
+                "col": "bottleTops"
+            },
+            “Confezioni di carta”: {
+                "col": "paperCardAlcoholPackaging"
+            },
+            “Confezioni di plastica”: {
+                "col": "plasticAlcoholPackaging"
+            },
+            “Pinte di vetro”: {
+                "col": "pint"
+            },
+            “Alcolici (altro)": {
+                "col": "alcoholOther"
+            }
+        }
+
+    // Caffè
+        "types": {
+            “Bicchieri da asporto per caffè“: {
+                "col": "coffeeCups"
+            },
+            "Coperchi per bicchieri d’asporto di caffè": {
+                "col": "coffeeLids"
+            },
+            “Caffè (altro)”: {
+                "col": "coffeeOther"
+            }
+        }
+
+    // Cibo
+
+        "types": {
+            “Involucri di dolci”: {
+                "col": "sweetWrappers"
+            },
+            “Confezioni di carta/cartone”: {
+                "col": "paperFoodPackaging"
+            },
+            “Confezioni di plastica ”: {
+                "col": "plasticFoodPackaging"
+            },
+            “Posate di plastica“: {
+                "col": "plasticCutlery"
+            },
+            “Pacchetti di patatine (piccoli)”: {
+                "col": "crisp_small"
+            },
+            “Pacchetti di patatine (grandi)”: {
+                "col": "crisp_large"
+            },
+            “Polistirolo”: {
+                "col": "styrofoam_plate"
+            },
+            “Tovaglioli”: {
+                "col": "napkins"
+            },
+            “Bustine di salse”: {
+                "col": "sauce_packet"
+            },
+            “Vasetti di vetro“: {
+                "col": "glass_jar"
+            },
+            “Coperchi per vasetti di vetro”: {
+                "col": "glass_jar_lid"
+            },
+            “Cibo (altro)”: {
+                "col": "foodOther"
+            }
+        }
+
+    // Bibite analcoliche
+
+         "types": {
+            “Bottiglie d’acqua in  plastica: {
+                "col": "waterBottle"
+            },
+            “Bottiglie di plastica per bevande gassate”: {
+                "col": "fizzyDrinkBottle"
+            },
+            “Lattine”: {
+                "col": "tinCan"
+            },
+            “Linguette delle lattine": {
+                "col": "pullring"
+            },
+            “Tappi di bottiglie”: {
+                "col": "bottleLid"
+            },
+            “Etichette di bottiglie”: {
+                "col": "bottleLabel"
+            },
+            “Bottiglie di bevande energetiche”: {
+                "col": "sportsDrink"
+            },
+            “Cannucce”: {
+                "col": "straws"
+            },
+            “Confezioni di cannucce”: {
+                "col": "strawpacket"
+            },
+            “Bicchieri di plastica”: {
+                "col": "plastic_cups"
+            },
+            “Coperchi per bicchieri di plastica“: {
+                "col": "plastic_cup_tops"
+            },
+            “Bottiglie di latte”: {
+                "col": "milk_bottle"
+            },
+            “Tetrapak di latte“: {
+                "col": "milk_carton"
+            },
+            “Bicchieri di carta“: {
+                "col": "paper_cups"
+            },
+            “Tetrapak di succhi”: {
+                "col": "juice_cartons"
+            },
+            “Bottiglie di succhi”: {
+                "col": "juice_bottles"
+            },
+            “Pacchetti di succo“: {
+                "col": "juice_packet"
+            },
+            “Bottiglie di tè freddo “: {
+                "col": "ice_tea_bottles"
+            },
+            “Lattine di tè freddo“: {
+                "col": "ice_tea_can"
+            },
+            “Lattine di bevande energetiche“: {
+                "col": "energy_can"
+            },
+            “Bicchieri di polistirolo”: {
+                "col": "styro_cup"
+            },
+            “Bibite analcoliche (altro)": {
+                "col": "softDrinkOther"
+            }
+        }
+
+    // Igiene
+
+    "types": {
+            “Preservativi”: {
+                "col": "condoms"
+            },
+            “Pannolini”: {
+                "col": "nappies"
+            },
+            “Assorbenti ”: {
+                "col": "menstral"
+            },
+            “Deodoranti”: {
+                "col": "deodorant"
+            },
+            “Cotton fioc”: {
+                "col": "ear_swabs"
+            },
+            “Stuzzicadenti”: {
+                "col": "tooth_pick"
+            },
+            “Spazzolini”: {
+                "col": "tooth_brush"
+            },
+            “Salviette umidificate”: {
+                "col": "wetwipes"
+            },
+            “Igiene (altro)”: {
+                "col": "sanitaryOther"
+            }
+        }
+
+    // Altro
+
+    "types": {
+            “Scarichi illegali”: {
+                "col": "dump"
+            },
+            “Cacca di cane“: {
+                "col": "dogshit"
+            },
+            “Cacca di cane in busta : {
+                "col": "pooinbag"
+            },
+            “Plastica identificata”: {
+                "col": "plastic"
+            },
+            “Salvagenti”: {
+                "col": "life_buoy"
+            },
+            “Coni stradali": {
+                "col": "traffic_cone"
+            },
+            “Parti di automobili”: {
+                "col": "automobile"
+            },
+            “Palloncini”: {
+                "col": "balloons"
+            },
+            "Batterie": {
+                "col": "batteries"
+            },
+            “Vestiario”: {
+                "col": "clothing"
+            },
+            “Rottami elettronici (piccoli)”: {
+                "col": "elec_small"
+            },
+            “Rottami elettronici (grandi)": {
+                "col": "elec_large"
+            },
+            “Oggetti di metallo“: {
+                "col": "metal"
+            },
+            “Buste di plastica“: {
+                "col": "plastic_bags"
+            },
+            “Manifesti elettorali“: {
+                "col": "election_posters"
+            },
+            “Manifesti di vendita”: {
+                "col": "forsale_posters"
+            },
+            “Libri”: {
+                "col": "books"
+            },
+            “Riviste”: {
+                "col": "magazine"
+            },
+            “Carta”: {
+                "col": "paper"
+            },
+            “Articoli di cancelleria”: {
+                "col": "stationary"
+            },
+            “Bottiglie di detersivi“: {
+                "col": "washing_up"
+            },
+            “Elastici per capelli”: {
+                "col": "hair_tie"
+            },
+            “Auricolari”: {
+                "col": "ear_plugs"
+            },
+            “Altro (altro)”: {
+                "col": "other"
+            }
+        }
+
+    // Zone costiere
+
+    "types": {
+            "Microplastiche”: {
+                "col": "microplastics"
+            },
+            “Plastica di medie dimensioni": {
+                "col": "mediumplastics"
+            },
+            "Macroplastica”: {
+                "col": "macroplastics"
+            },
+            “Corde (piccole)“: {
+                "col": "rope_small"
+            },
+            “Corde (medie))”: {
+                "col": "rope_medium"
+            },
+            “Corde (grandi)”: {
+                "col": "rope_large"
+            },
+            “Attrezzi da pesca/reti“: {
+                "col": "fishing_gear_nets"
+            },
+            "Boe": {
+                "col": "buoys"
+            },
+            “Bottiglie di plastica degradate“: {
+                "col": "degraded_plasticbottle"
+            },
+            “Sacchetti di plastica degradati“: {
+                "col": "degraded_plasticbag"
+            },
+            “Cannucce degradate”: {
+                "col": "degraded_straws"
+            },
+            “Accendini degradati”: {
+                "col": "degraded_lighters"
+            },
+            “Palloni”: {
+                "col": "balloons"
+            },
+            "Lego": {
+                "col": "lego"
+            },
+            “Cartucce per fucili”: {
+                "col": "shotgun_cartridges"
+            },
+            “Polistirolo (piccolo)”: {
+                "col": "styro_small"
+            },
+            “Polistirolo (medio)”: {
+                "col": "styro_medium"
+            },
+            “Polistirolo (grande)": {
+                "col": "styro_large"
+            },
+            “Zone costiere (altro)”: {
+                "col": "coastal_other"
+            }
+        }
