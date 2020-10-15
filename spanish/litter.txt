@@ -1,0 +1,256 @@
+
+// smoking
+        "types": {
+            "Cigarettes/Butts"
+
+            "Lighters"
+
+            "Cigarette Box"
+
+            "Tobacco Pouch"
+
+            "Rolling Papers"
+
+            "Plastic Packaging"
+
+            "Filters"
+
+            "Filter Box"
+
+            "Smoking-Other"
+
+        }
+
+    // alcohol
+
+        "types": {
+            "Beer cans"
+
+            "Glass bottles (Beer)"
+
+            "Glass bottles (Spirits)"
+
+            "Glass bottles (Wine)"
+
+            "Broken glass"
+
+            "Beer bottle tops"
+
+            "Paper Packaging"
+
+            "Plastic Packaging"
+
+            "Pint Glass"
+
+            "Alcohol-Other"
+
+        }
+
+    // coffee
+                "types": {
+            "Coffee Cups"
+
+            "Coffee Lids"
+
+            "Coffee-Other"
+
+        }
+
+    // food
+
+        "types": {
+            "Sweet Wrappers"
+
+            "Paper/Cardboard Packaging"
+
+            "Plastic Packaging"
+
+            "Plastic Cutlery"
+
+            "Crisp/Chip Packet (small)"
+
+            "Crisp/Chip Packet (large)"
+
+            "Styrofoam"
+
+            "Napkins"
+
+            "Sauce Packet"
+
+            "Glass Jar"
+
+            "Glass Jar Lid"
+
+            "Food-Other"
+
+        }
+
+    // softdrinks 
+
+         "types": {
+            "Plastic Water bottle"
+
+            "Plastic Fizzy Drink bottle"
+
+            "Can"
+
+            "Pull-ring"
+
+            "Bottle Tops"
+
+            "Bottle Labels"
+
+            "Sports Drink bottle"
+
+            "Straws"
+
+            "Straw Packaging"
+
+            "Plastic Cups"
+
+            "Plastic Cup Tops"
+
+            "Milk Bottle"
+
+            "Milk Carton"
+
+            "Paper Cups"
+
+            "Juice Cartons"
+
+            "Juice Bottles"
+
+            "Juice Packet"
+
+            "Ice Tea Bottles"
+
+            "Ice Tea Can"
+
+            "Energy Can"
+
+            "Styrofoam Cup"
+
+            "Soft Drink (other)"
+
+        }
+
+    // sanitary 
+
+    "types": {
+            "Condoms"
+
+            "Nappies"
+
+            "Menstral"
+
+            "Deodorant"
+
+            "Ear Swabs"
+
+            "Tooth Pick"
+
+            "Tooth Brush"
+
+            "Wet Wipes"
+
+            "Sanitary (other)"
+
+        }
+
+    // other 
+
+    "types": {
+            "Illegal Dumping"
+
+            "Pet Surprise"
+
+            "Pet Surprise in a Bag"
+
+            "Unidentified Plastic"
+
+            "Life Buoy"
+
+            "Traffic Cone"
+
+            "Automobile"
+
+            "Balloons"
+
+            "Batteries"
+
+            "Clothing"
+
+            "Electric small"
+
+            "Electric large"
+
+            "Metal Object"
+
+            "Plastic Bags"
+
+            "Election Posters"
+
+            "For Sale Posters"
+
+            "Books"
+
+            "Magazines"
+
+            "Paper"
+
+            "Stationary"
+
+            "Washing-up Bottle"
+
+            "Hair Tie"
+
+            "Ear Plugs (music)"
+
+            "Other (other)"
+
+        }
+
+    // coastal 
+
+    "types": {
+            "Microplastics"
+
+            "Mediumplastics"
+
+            "Macroplastics"
+
+            "Rope small"
+
+            "Rope medium"
+
+            "Rope large"
+
+            "Fishing gear/nets"
+
+            "Buoys"
+
+            "Degraded Plastic Bottle"
+
+            "Degraded Plastic Bag"
+
+            "Degraded Drinking Straws"
+
+            "Degraded Lighters"
+
+            "Balloons"
+
+            "Lego"
+
+            "Shotgun Cartridges"
+
+            "Styrofoam small"
+
+            "Styrofoam medium"
+
+            "Styrofoam large"
+
+            "Coastal (other)"
+
+        }
+
+        
