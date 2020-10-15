@@ -1,256 +1,255 @@
-
+// Spanish (Spain)
 // smoking
         "types": {
-            "Cigarettes/Butts"
 
-            "Lighters"
+            "Cigarettes/Butts"        "Cigarrillos/Colillas"
 
-            "Cigarette Box"
+            "Lighters"        "Mecheros"
 
-            "Tobacco Pouch"
+            "Cigarette Box"        "Cajetilla de tabaco"
 
-            "Rolling Papers"
+            "Tobacco Pouch"    ????
 
-            "Plastic Packaging"
+            "Rolling Papers"        "Papel de liar"
 
-            "Filters"
+            "Plastic Packaging"  ????
 
-            "Filter Box"
+            "Filters"   "Filtros"
 
-            "Smoking-Other"
+            "Filter Box"  "Caja de filtros"
+
+            "Smoking-Other"  "Fumar-Otros"
 
         }
 
     // alcohol
 
         "types": {
-            "Beer cans"
+            "Beer cans" "Latas de cerveza"
 
-            "Glass bottles (Beer)"
+            "Glass bottles (Beer)"  "Botellas de vidrio (Cerveza)"
 
-            "Glass bottles (Spirits)"
+            "Glass bottles (Spirits)"  "Botellas de vidrio ()" ????
 
-            "Glass bottles (Wine)"
+            "Glass bottles (Wine)"  "Botellas de vidrio (Vino)"
 
-            "Broken glass"
+            "Broken glass"   "Trozos de vidrio"
 
-            "Beer bottle tops"
+            "Beer bottle tops"    "Tapones de botella de cerveza"
 
-            "Paper Packaging"
+            "Paper Packaging"   ????
 
-            "Plastic Packaging"
+            "Plastic Packaging"   ?????
 
-            "Pint Glass"
+            "Pint Glass"  ?????
 
-            "Alcohol-Other"
+            "Alcohol-Other"  "Alcohol-Otros"
 
         }
 
     // coffee
                 "types": {
-            "Coffee Cups"
+            "Coffee Cups"  "Vasos del café"
 
-            "Coffee Lids"
+            "Coffee Lids"  "Tapas del café"
 
-            "Coffee-Other"
+            "Coffee-Other"  "Café-Otros"
 
         }
 
     // food
 
         "types": {
-            "Sweet Wrappers"
+            "Sweet Wrappers"   "Envoltorios de dulces"
 
-            "Paper/Cardboard Packaging"
+            "Paper/Cardboard Packaging"  ????
 
-            "Plastic Packaging"
+            "Plastic Packaging"????
 
-            "Plastic Cutlery"
+            "Plastic Cutlery"  "Cubertería de plástico"
 
-            "Crisp/Chip Packet (small)"
+            "Crisp/Chip Packet (small)" "Bolsa de papas (pequeña)"
 
-            "Crisp/Chip Packet (large)"
+            "Crisp/Chip Packet (large)"  "Bolsa de papas (grande)"
 
-            "Styrofoam"
+            "Styrofoam" ????
 
-            "Napkins"
+            "Napkins"  "Servilletas"
 
-            "Sauce Packet"
+            "Sauce Packet"  "Paquete de salsa"
 
-            "Glass Jar"
+            "Glass Jar"  "Bote de cristal"
 
-            "Glass Jar Lid"
+            "Glass Jar Lid"  "Tapa de bote de cristal"
 
-            "Food-Other"
+            "Food-Other"  "Comida-Otros"
 
         }
 
-    // softdrinks 
+    // softdrinks
 
          "types": {
-            "Plastic Water bottle"
+            "Plastic Water bottle" "Botella de agua de plástico"
 
-            "Plastic Fizzy Drink bottle"
+            "Plastic Fizzy Drink bottle"  "Botella de bebida carbonatada de plástico"
 
-            "Can"
+            "Can" "Lata"
 
-            "Pull-ring"
+            "Pull-ring" ????
 
-            "Bottle Tops"
+            "Bottle Tops" "Tapones de botella"
 
-            "Bottle Labels"
+            "Bottle Labels" "Etiquetas de botella"
 
-            "Sports Drink bottle"
+            "Sports Drink bottle"  "Botella de bebida para deportistas"  ??? bebida energética
 
-            "Straws"
+            "Straws" "Pajitas" ???
 
-            "Straw Packaging"
+            "Straw Packaging" ???
 
-            "Plastic Cups"
+            "Plastic Cups" "Vasos de plástico"
 
-            "Plastic Cup Tops"
+            "Plastic Cup Tops"  "Tapas de vaso de plástico"
 
-            "Milk Bottle"
+            "Milk Bottle" "Botella de leche"
 
-            "Milk Carton"
+            "Milk Carton" "Tetrabrick de leche"
 
-            "Paper Cups"
+            "Paper Cups" "Vasos de papel"
 
-            "Juice Cartons"
+            "Juice Cartons" "Tetrabricks de zumo"
 
-            "Juice Bottles"
+            "Juice Bottles" "Botellas de zumo"
 
-            "Juice Packet"
+            "Juice Packet" ???
 
-            "Ice Tea Bottles"
+            "Ice Tea Bottles" "Botellas de té helado"
 
-            "Ice Tea Can"
+            "Ice Tea Can" "Lata de té helado"
 
-            "Energy Can"
+            "Energy Can" "Lata de bebida energética"
 
-            "Styrofoam Cup"
+            "Styrofoam Cup" "Vaso de corcho blanco" ???
 
-            "Soft Drink (other)"
+            "Soft Drink (other)" ???
 
         }
 
-    // sanitary 
+    // sanitary
 
     "types": {
-            "Condoms"
+            "Condoms"  "Condones"
 
-            "Nappies"
+            "Nappies" "Pañales"
 
-            "Menstral"
+            "Menstral" ???
 
-            "Deodorant"
+            "Deodorant" "Desodorante"
 
-            "Ear Swabs"
+            "Ear Swabs" "Palillos de los oídos" isopo??
 
-            "Tooth Pick"
+            "Tooth Pick" "Palillos de dientes"
 
-            "Tooth Brush"
+            "Tooth Brush" "Cepillo de dientes"
 
-            "Wet Wipes"
+            "Wet Wipes" "Toallitas húmedas"
 
-            "Sanitary (other)"
+            "Sanitary (other)" ???
 
         }
 
-    // other 
+    // other
 
     "types": {
-            "Illegal Dumping"
+            "Illegal Dumping"  "Vertido ilegal" ???
 
-            "Pet Surprise"
+            "Pet Surprise" ???
 
-            "Pet Surprise in a Bag"
+            "Pet Surprise in a Bag" ???
 
-            "Unidentified Plastic"
+            "Unidentified Plastic" "Plástico no identificado"
 
-            "Life Buoy"
+            "Life Buoy" ???
 
-            "Traffic Cone"
+            "Traffic Cone" "Cono de tráfico"
 
-            "Automobile"
+            "Automobile" ???
 
-            "Balloons"
+            "Balloons" "Globos"
 
-            "Batteries"
+            "Batteries" "Baterías"
 
-            "Clothing"
+            "Clothing" "Ropa"
 
-            "Electric small"
+            "Electric small"  "Electrónica pequeña"
 
-            "Electric large"
+            "Electric large" "Electrónica grande"
 
-            "Metal Object"
+            "Metal Object" "Objeto metálico"
 
-            "Plastic Bags"
+            "Plastic Bags" "Bolsas de plástico"
 
-            "Election Posters"
+            "Election Posters" "Póster electoral"
 
-            "For Sale Posters"
+            "For Sale Posters" "Póster de Se Vende"
 
-            "Books"
+            "Books" "Libros"
 
-            "Magazines"
+            "Magazines" "Revistas"
 
-            "Paper"
+            "Paper" "Papel"
 
-            "Stationary"
+            "Stationary" "Material de oficina" ???
 
-            "Washing-up Bottle"
+            "Washing-up Bottle" ???
 
-            "Hair Tie"
+            "Hair Tie" "Goma del pelo"
 
-            "Ear Plugs (music)"
+            "Ear Plugs (music)" ???
 
-            "Other (other)"
+            "Other (other)" "Otros (otros)"
 
         }
 
-    // coastal 
+    // coastal
 
     "types": {
-            "Microplastics"
+            "Microplastics" "Microplásticos"
 
-            "Mediumplastics"
+            "Mediumplastics" ??
 
-            "Macroplastics"
+            "Macroplastics" "Macroplásticos"
 
-            "Rope small"
+            "Rope small" "Cuerda pequeña"
 
-            "Rope medium"
+            "Rope medium" "Cuerda mediana"
 
-            "Rope large"
+            "Rope large" "Cuerda grande"
 
-            "Fishing gear/nets"
+            "Fishing gear/nets" "Utensilios de pesca/redes"
 
-            "Buoys"
+            "Buoys" "Boyas"
 
-            "Degraded Plastic Bottle"
+            "Degraded Plastic Bottle" "Botella de plástico degradada"
 
-            "Degraded Plastic Bag"
+            "Degraded Plastic Bag" "Bolsa de plástico degradada"
 
-            "Degraded Drinking Straws"
+            "Degraded Drinking Straws" "Pajitas de plástico degradadas"
 
-            "Degraded Lighters"
+            "Degraded Lighters" "Mecheros degradados"
 
-            "Balloons"
+            "Balloons" "Globos"
 
-            "Lego"
+            "Lego" "Lego"
 
-            "Shotgun Cartridges"
+            "Shotgun Cartridges" "Cartuchos de escopeta"
 
-            "Styrofoam small"
+            "Styrofoam small" ??
 
-            "Styrofoam medium"
+            "Styrofoam medium" ??
 
-            "Styrofoam large"
+            "Styrofoam large" ??
 
-            "Coastal (other)"
+            "Coastal (other)" ??
 
         }
-
-        
