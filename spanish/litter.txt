@@ -8,11 +8,11 @@
 
             "Cigarette Box"        "Cajetilla de tabaco"
 
-            "Tobacco Pouch"    ????
+            "Tobacco Pouch"    "Bolsa de tabaco"
 
             "Rolling Papers"        "Papel de liar"
 
-            "Plastic Packaging"  ????
+            "Plastic Packaging"  "Envase de plástico"
 
             "Filters"   "Filtros"
 
@@ -29,22 +29,23 @@
 
             "Glass bottles (Beer)"  "Botellas de vidrio (Cerveza)"
 
-            "Glass bottles (Spirits)"  "Botellas de vidrio ()" ????
+            "Glass bottles (Spirits)"  "Botellas de vidrio (Destilados)" ????
 
             "Glass bottles (Wine)"  "Botellas de vidrio (Vino)"
 
-            "Broken glass"   "Trozos de vidrio"
+            "Broken glass"   "Vidrio roto"
 
             "Beer bottle tops"    "Tapones de botella de cerveza"
 
-            "Paper Packaging"   ????
+            "Paper Packaging"   "Envoltorio de papel"
 
-            "Plastic Packaging"   ?????
+            "Plastic Packaging"   "Envoltorio de plástico"
 
-            "Pint Glass"  ?????
+            "Pint Glass"  "Jarra de cerveza"
 
             "Alcohol-Other"  "Alcohol-Otros"
-
+// Translation 'Pint Glass' is 'Vaso de pinta' but not pint-sized beer jugs are way more common in Spain.
+// Not sure if it should just translate or adapt to the country's reality.
         }
 
     // coffee
@@ -62,9 +63,9 @@
         "types": {
             "Sweet Wrappers"   "Envoltorios de dulces"
 
-            "Paper/Cardboard Packaging"  ????
+            "Paper/Cardboard Packaging"  "Embalaje de papel/Cartón"
 
-            "Plastic Packaging"????
+            "Plastic Packaging" "Embalaje de plástico"
 
             "Plastic Cutlery"  "Cubertería de plástico"
 
@@ -72,15 +73,15 @@
 
             "Crisp/Chip Packet (large)"  "Bolsa de papas (grande)"
 
-            "Styrofoam" ????
+            "Styrofoam" "Espuma de poliestireno"
 
             "Napkins"  "Servilletas"
 
             "Sauce Packet"  "Paquete de salsa"
 
-            "Glass Jar"  "Bote de cristal"
+            "Glass Jar"  "Tarro de cristal"
 
-            "Glass Jar Lid"  "Tapa de bote de cristal"
+            "Glass Jar Lid"  "Tapa de tarro de cristal"
 
             "Food-Other"  "Comida-Otros"
 
@@ -95,17 +96,17 @@
 
             "Can" "Lata"
 
-            "Pull-ring" ????
+            "Pull-ring" "Anilla de lata"
 
             "Bottle Tops" "Tapones de botella"
 
             "Bottle Labels" "Etiquetas de botella"
 
-            "Sports Drink bottle"  "Botella de bebida para deportistas"  ??? bebida energética
+            "Sports Drink bottle"  "Botella de bebida energética"  // Used 'energy' drink, 'bebida deportiva' does not sound right to me
 
-            "Straws" "Pajitas" ???
+            "Straws" "Pajitas"
 
-            "Straw Packaging" ???
+            "Straw Packaging"  "Envoltorio de pajita"
 
             "Plastic Cups" "Vasos de plástico"
 
@@ -113,25 +114,25 @@
 
             "Milk Bottle" "Botella de leche"
 
-            "Milk Carton" "Tetrabrick de leche"
+            "Milk Carton" "Tetrabrick de leche" //'Cartón de leche' is used too but not sure which one is more common
 
             "Paper Cups" "Vasos de papel"
 
-            "Juice Cartons" "Tetrabricks de zumo"
+            "Juice Cartons" "Tetrabriks de zumo" //'Cartón de zumo'. Same as for milk carton
 
             "Juice Bottles" "Botellas de zumo"
 
-            "Juice Packet" ???
+            "Juice Packet" "Mini brik de zumo" //Only translation I found, don't know how they're called
 
-            "Ice Tea Bottles" "Botellas de té helado"
+            "Ice Tea Bottles" "Botellas de Té Helado"
 
-            "Ice Tea Can" "Lata de té helado"
+            "Ice Tea Can" "Lata de Té Helado"
 
-            "Energy Can" "Lata de bebida energética"
+            "Energy Can" "Lata de bebida energética" //Original should be energy drink can?
 
-            "Styrofoam Cup" "Vaso de corcho blanco" ???
+            "Styrofoam Cup" "Vaso de poliestireno"
 
-            "Soft Drink (other)" ???
+            "Soft Drink (other)" Refrescos (otros)
 
         }
 
@@ -142,38 +143,38 @@
 
             "Nappies" "Pañales"
 
-            "Menstral" ???
+            "Menstral" //Is it 'menstrual'? "Menstrual items": sanitary towel, menstrual pad
 
             "Deodorant" "Desodorante"
 
-            "Ear Swabs" "Palillos de los oídos" isopo??
+            "Ear Swabs" "Palillos de los oídos/hisopos" //
 
-            "Tooth Pick" "Palillos de dientes"
+            "Tooth Pick" "Palillo de dientes"
 
             "Tooth Brush" "Cepillo de dientes"
 
             "Wet Wipes" "Toallitas húmedas"
 
-            "Sanitary (other)" ???
+            "Sanitary (other)" "Productos higiene (otros)"
 
         }
 
     // other
 
     "types": {
-            "Illegal Dumping"  "Vertido ilegal" ???
+            "Illegal Dumping"  "Vertido ilegal"
 
-            "Pet Surprise" ???
+            "Pet Surprise" "Deshechos de mascota" //Not sure what to use to keep the cute euphemism, so used 'pet waste'
 
-            "Pet Surprise in a Bag" ???
+            "Pet Surprise in a Bag" "Deshechos de mascota en una bolsa"
 
             "Unidentified Plastic" "Plástico no identificado"
 
-            "Life Buoy" ???
+            "Life Buoy" "Boya salvavidas"
 
             "Traffic Cone" "Cono de tráfico"
 
-            "Automobile" ???
+            "Automobile" "Elementos de automóvil"
 
             "Balloons" "Globos"
 
@@ -199,13 +200,13 @@
 
             "Paper" "Papel"
 
-            "Stationary" "Material de oficina" ???
+            "Stationary" "Material de oficina/papelería" // **Stationery**
 
-            "Washing-up Bottle" ???
+            "Washing-up Bottle" "Botella de detergente"
 
             "Hair Tie" "Goma del pelo"
 
-            "Ear Plugs (music)" ???
+            "Ear Plugs (music)" "Tapones para los oídos"
 
             "Other (other)" "Otros (otros)"
 
@@ -216,15 +217,15 @@
     "types": {
             "Microplastics" "Microplásticos"
 
-            "Mediumplastics" ??
+            "Mediumplastics" "**Mediumplastics**" //Never heard it, should ask expert. 'Mesoplásticos'? Medioplásticos sounds like half-plastic
 
             "Macroplastics" "Macroplásticos"
 
-            "Rope small" "Cuerda pequeña"
+            "Rope small" "Cuerda/maroma pequeña"
 
-            "Rope medium" "Cuerda mediana"
+            "Rope medium" "Cuerda/maroma mediana"
 
-            "Rope large" "Cuerda grande"
+            "Rope large" "Cuerda/maroma grande"
 
             "Fishing gear/nets" "Utensilios de pesca/redes"
 
@@ -244,12 +245,12 @@
 
             "Shotgun Cartridges" "Cartuchos de escopeta"
 
-            "Styrofoam small" ??
+            "Styrofoam small" "Poliestireno pequeño"
 
-            "Styrofoam medium" ??
+            "Styrofoam medium" "Poliestireno mediano"
 
-            "Styrofoam large" ??
+            "Styrofoam large" "Poliestireno grande"
 
-            "Coastal (other)" ??
+            "Coastal (other)" "Costero (otros)"
 
         }
