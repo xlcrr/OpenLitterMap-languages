@@ -2,10 +2,10 @@
 
 // Please leave the keys in English (first colunm eg lang, eg, welcome, welcomea....)
 // Please change the Values to your lanuage.
-// Thank you ! 
+// Thank you !
 
 return [
-	'lang' => 'English',
+	'lang' => 'Español',
 	'en' => 'English',
 	'es' => 'Español',
 	'fr' => 'Français',
@@ -14,30 +14,30 @@ return [
 	'pt' => 'Portugese',
 	'tk' => 'Turkish',
 	// Welcome
-	'welcome' => 'Litter is',
-	'welcomea' => 'Everywhere^1000',
-	'welcomeb' => 'Toxic^2000',
-	'welcomec' => 'Fixable^3000',
+	'welcome' => 'La basura está',
+	'welcomea' => 'Por todas partes^1000',
+	'welcomeb' => 'Tóxica^2000',
+	'welcomec' => 'Tiene solución^3000',
 
-	'welcome1' => 'Cigarette Butts, Plastic Bottles, Broken Glass...',
-	'welcome2' => 'Earn',
-	'welcome2a' => 'by Mapping and Producing Open Data on plastic pollution anywhere.',
+	'welcome1' => 'Colillas, Botellas de Plástico, Cristales Rotos...',
+	'welcome2' => 'Gana',
+	'welcome2a' => 'Mapeando y Produciendo Datos Abiertos sobre polución plástica en cualquier parte.',
 
-	'welcome3' => 'Litter has serious environmental consequences.',
-	'welcome4' => 'Click here to read the About section for more info.',
-	'welcome5' => 'The Good News?',
-	'welcome6' => 'This is something we can actually fix.',
-	'welcome7' => 'Sign up for an account',
-	'welcome8' => 'Create Open Data',
-	'welcome9' => 'Recieve Littercoin!',
-	'welcome10' => "I want to help!",
+	'welcome3' => 'La basura conlleva graves consecuencias medioambientales.',
+	'welcome4' => 'Haz clic aquí para leer la sección Acerca de para más información.',
+	'welcome5' => 'Las Buenas Noticias?',
+	'welcome6' => 'Esto es algo que realmente podemos arreglar.',
+	'welcome7' => 'Crea una cuenta',
+	'welcome8' => 'Crea Datos Abiertos',
+	'welcome9' => 'Recibe Littercoin!',
+	'welcome10' => "¡Quiero ayudar!",
 	// Navbar
 	'navbar1' => '#OpenLitterMap',
-	'navbar2' => 'Navigation',
-	'navbar3' => 'Donate',
-	'navbar4' => 'World Cup',
-	'navbar5' => 'About',
-	'navbar6' => 'Submit',
+	'navbar2' => 'Navega',
+	'navbar3' => 'Donar',
+	'navbar4' => 'Copa Mundial',
+	'navbar5' => 'Acerca de',
+	'navbar6' => 'Enviar',
 	'navbar7' => 'More:',
 	'navbar8' => 'Profile',
 	'navbar9' => 'Settings',
