@@ -1,4 +1,5 @@
-// smoking
+
+// fumar
         "types": {        
 
             "Cigarrillos/Colillas"
@@ -28,7 +29,7 @@
 
             "Botellas de vidrio (Cerveza)"
 
-            "Botellas de vidrio (Destilados)" ????
+            "Botellas de vidrio (Destilados)"
 
             "Botellas de vidrio (Vino)"
 
@@ -44,11 +45,9 @@
 
             "Alcohol-Otros"
 
-// Translation 'Pint Glass' is 'Vaso de pinta' but not pint-sized beer jugs are way more common in Spain.
-// Not sure if it should just translate or adapt to the country's reality.
         }
 
-    // coffee
+    // café
         "types": {                
             "Vasos del café"
 
@@ -87,7 +86,7 @@
 
         }
 
-    // softdrinks
+    // refrescos
 
         "types": {         
             "Botella de agua de plástico"
@@ -102,7 +101,7 @@
 
             "Etiquetas de botella"
 
-            "Botella de bebida energética"  // Used 'energy' drink, 'bebida deportiva' does not sound right to me
+            "Botella de bebida energética"
 
             "Pajitas"
 
@@ -114,21 +113,21 @@
 
             "Botella de leche"
 
-            "Tetrabrick de leche" //'Cartón de leche' is used too but not sure which one is more common
+            "Tetrabrick de leche"
 
             "Vasos de papel"
 
-            "Tetrabriks de zumo" //'Cartón de zumo'. Same as for milk carton
+            "Tetrabriks de zumo" 
 
             "Botellas de zumo"
 
-            "Mini-brik de zumo" //Only translation I found, don't know how they're called
+            "Mini-brik de zumo" 
 
             "Botellas de Té Helado"
 
             "Lata de Té Helado"
 
-            "Lata de bebida energética" //Original should be energy drink can?
+            "Lata de bebida energética" 
 
             "Vaso de poliestireno"
 
@@ -136,18 +135,18 @@
 
         }
 
-    // sanitary
+    // productos higiene
 
         "types": {    
             "Condones"
 
             "Pañales"
 
-            "Menstrual items": sanitary towel, menstrual pad
+            "Compresas"
 
             "Desodorante"
 
-            "Palillos de los oídos/hisopos" //
+            "Palillos de los oídos/hisopos"
 
             "Palillo de dientes"
 
@@ -159,12 +158,12 @@
 
         }
 
-    // other
+    // otros
 
-"Refrescos (otros)"    
+        "types": {    
             "Vertido ilegal"
 
-            "Deshechos de mascota" //Not sure what to use to keep the cute euphemism, so used 'pet waste'
+            "Deshechos de mascota" 
 
             "Deshechos de mascota en una bolsa"
 
@@ -200,7 +199,7 @@
 
             "Papel"
 
-            "Material de oficina/papelería" // **Stationery**
+            "Material de oficina/papelería" 
 
             "Botella de detergente"
 
@@ -212,12 +211,12 @@
 
         }
 
-    // coastal
+    // costero
 
     "types": {    
             "Microplásticos"
 
-            "**Mediumplastics**" //Never heard it, should ask expert. 'Mesoplásticos'? Medioplásticos sounds like half-plastic
+            "Mesoplásticos" 
 
             "Macroplásticos"
 
