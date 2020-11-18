@@ -1,0 +1,255 @@
+
+// fumar
+        "types": {        
+
+            "Cigarrillos/Colillas"
+
+            "Mecheros"
+
+            "Cajetilla de tabaco"
+
+            "Bolsa de tabaco"
+
+            "Papel de liar"
+
+            "Envase de plástico"
+
+            "Filtros"
+
+            "Caja de filtros"
+
+            "Fumar-Otros"
+
+        }
+
+    // alcohol
+
+        "types": {        
+            "Latas de cerveza"
+
+            "Botellas de vidrio (Cerveza)"
+
+            "Botellas de vidrio (Destilados)"
+
+            "Botellas de vidrio (Vino)"
+
+            "Vidrio roto"
+
+            "Tapones de botella de cerveza"
+
+            "Envoltorio de papel"
+
+            "Envoltorio de plástico"
+
+            "Jarra de cerveza"
+
+            "Alcohol-Otros"
+
+        }
+
+    // café
+        "types": {                
+            "Vasos del café"
+
+            "Tapas del café"
+
+            "Café-Otros"
+
+        }
+
+    // food
+
+        "types": {        
+            "Envoltorios de dulces"
+
+            "Embalaje de papel/Cartón"
+
+            "Embalaje de plástico"
+
+            "Cubertería de plástico"
+
+            "Bolsa de papas (pequeña)"
+
+            "Bolsa de papas (grande)"
+
+            "Espuma de poliestireno"
+
+            "Servilletas"
+
+            "Paquete de salsa"
+
+            "Tarro de cristal"
+
+            "Tapa de tarro de cristal"
+
+            "Comida-Otros"
+
+        }
+
+    // refrescos
+
+        "types": {         
+            "Botella de agua de plástico"
+
+            "Botella de bebida carbonatada de plástico"
+
+            "Lata"
+
+            "Anilla de lata"
+
+            "Tapones de botella"
+
+            "Etiquetas de botella"
+
+            "Botella de bebida energética"
+
+            "Pajitas"
+
+            "Envoltorio de pajita"
+
+            "Vasos de plástico"
+
+            "Tapas de vaso de plástico"
+
+            "Botella de leche"
+
+            "Tetrabrick de leche"
+
+            "Vasos de papel"
+
+            "Tetrabriks de zumo" 
+
+            "Botellas de zumo"
+
+            "Mini-brik de zumo" 
+
+            "Botellas de Té Helado"
+
+            "Lata de Té Helado"
+
+            "Lata de bebida energética" 
+
+            "Vaso de poliestireno"
+
+            "Refrescos (otros)"
+
+        }
+
+    // productos higiene
+
+        "types": {    
+            "Condones"
+
+            "Pañales"
+
+            "Compresas"
+
+            "Desodorante"
+
+            "Palillos de los oídos/hisopos"
+
+            "Palillo de dientes"
+
+            "Cepillo de dientes"
+
+            "Toallitas húmedas"
+
+            "Productos higiene (otros)"
+
+        }
+
+    // otros
+
+        "types": {    
+            "Vertido ilegal"
+
+            "Deshechos de mascota" 
+
+            "Deshechos de mascota en una bolsa"
+
+            "Plástico no identificado"
+
+            "Boya salvavidas"
+
+            "Cono de tráfico"
+
+            "Elementos de automóvil"
+
+            "Globos"
+
+            "Baterías"
+
+            "Ropa"
+
+            "Electrónica pequeña"
+
+            "Electrónica grande"
+
+            "Objeto metálico"
+
+            "Bolsas de plástico"
+
+            "Póster electoral"
+
+            "Póster de Se Vende"
+
+            "Libros"
+
+            "Revistas"
+
+            "Papel"
+
+            "Material de oficina/papelería" 
+
+            "Botella de detergente"
+
+            "Goma del pelo"
+
+            "Tapones para los oídos"
+
+            "Otros (otros)"
+
+        }
+
+    // costero
+
+    "types": {    
+            "Microplásticos"
+
+            "Mesoplásticos" 
+
+            "Macroplásticos"
+
+            "Cuerda/maroma pequeña"
+
+            "Cuerda/maroma mediana"
+
+            "Cuerda/maroma grande"
+
+            "Utensilios de pesca/redes"
+
+            "Boyas"
+
+            "Botella de plástico degradada"
+
+            "Bolsa de plástico degradada"
+
+            "Pajitas de plástico degradadas"
+
+            "Mecheros degradados"
+
+            "Globos"
+
+            "Lego"
+
+            "Cartuchos de escopeta"
+
+            "Poliestireno pequeño"
+
+            "Poliestireno mediano"
+
+            "Poliestireno grande"
+
+            "Costero (otros)"
+
+        }
