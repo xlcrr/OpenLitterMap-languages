@@ -1,0 +1,361 @@
+// التدخين
+        "types": {
+            "سجائر/أعقاب السجائر": {
+                "col": "butts"
+            },
+            "ولاعات": {
+                "col": "lighters"
+            },
+            "علبة سجائر": {
+                "col": "cigaretteBox"
+            },
+            "كيس تبغ": {
+                "col": "tobaccoPouch"
+            },
+            "ورق": {
+                "col": "skins"
+            },
+            "عبوات بلاستيكية": {
+                "col": "plastic"
+            },
+            "فلتر": {
+                "col": "filters"
+            },
+            "صندوق ترشح": {
+                "col": "filterbox"
+            },
+            "تدخين (أخرى)": {
+                "col": "smokingOther"
+            }
+        }
+
+    // الكحوليات
+
+        "types": {
+            "علبة بيرة": {
+                "col": "beerCan"
+            },
+            "قوارير زجاجية (بيرة)": {
+                "col": "beerBottle"
+            },
+            "قوارير زجاجية (مشروبات روحية)": {
+                "col": "spiritBottle"
+            },
+            "قوارير زجاجية (نبيذ)": {
+                "col": "wineBottle"
+            },
+            "زجاج مكسور": {
+                "col": "brokenGlass"
+            },
+            "أغطية قوارير زجاجية": {
+                "col": "bottleTops"
+            },
+            "غلاف ورقي": {
+                "col": "paperCardAlcoholPackaging"
+            },
+            "عبوات بلاستيكية": {
+                "col": "plasticAlcoholPackaging"
+            },
+            "زجاجة نصف لتر": {
+                "col": "pint"
+            },
+            "الكحول (أخرى)": {
+                "col": "alcoholOther"
+            }
+        }
+
+    // القهوة
+        "types": {
+            "كوب قهوة": {
+                "col": "coffeeCups"
+            },
+            "اغطية قهوة": {
+                "col": "coffeeLids"
+            },
+            "قهوة (أخرى)": {
+                "col": "coffeeOther"
+            }
+        }
+
+    // طعام
+
+        "types": {
+            "اغلفة حلوى": {
+                "col": "sweetWrappers"
+            },
+            "غلاف ورق/كرتون": {
+                "col": "paperFoodPackaging"
+            },
+            "عبوات بلاستيكية": {
+                "col": "plasticFoodPackaging"
+            },
+            "أدوات المائدة البلاستيكية": {
+                "col": "plasticCutlery"
+            },
+            "كيس مقرمشات (صغير)": {
+                "col": "crisp_small"
+            },
+            "كيس مقرمشات (كبير)": {
+                "col": "crisp_large"
+            },
+            "الستايروفوم": {
+                "col": "styrofoam_plate"
+            },
+            "مناديل ورقية": {
+                "col": "napkins"
+            },
+            "علبة صلصة": {
+                "col": "sauce_packet"
+            },
+            "جرة زجاجية": {
+                "col": "glass_jar"
+            },
+            "غطاء جرة زجاجية": {
+                "col": "glass_jar_lid"
+            },
+            "طعام (أخرى)": {
+                "col": "foodOther"
+            }
+        }
+
+    // المشروبات الغازية
+
+         "types": {
+            "زجاجة مياه بلاستيكية": {
+                "col": "waterBottle"
+            },
+            "زجاجة مياه غازية بلاستيكية": {
+                "col": "fizzyDrinkBottle"
+            },
+            "علبة مشروب غازي": {
+                "col": "tinCan"
+            },
+            "حلقة معدنية": {
+                "col": "pullring"
+            },
+            "غطاء زجاجة": {
+                "col": "bottleLid"
+            },
+            "ملصق زجاجة": {
+                "col": "bottleLabel"
+            },
+            "زجاجة مشروب طاقة": {
+                "col": "sportsDrink"
+            },
+            "ماصات شرب": {
+                "col": "straws"
+            },
+            "غلاف ماصات شرب": {
+                "col": "strawpacket"
+            },
+            "أكواب بلاستيكية": {
+                "col": "plastic_cups"
+            },
+            "غطاء كوب بلاستيك": {
+                "col": "plastic_cup_tops"
+            },
+            "زجاجة حليب": {
+                "col": "milk_bottle"
+            },
+            "كرتون حليب": {
+                "col": "milk_carton"
+            },
+            "اكواب ورقية": {
+                "col": "paper_cups"
+            },
+            "علب عصير": {
+                "col": "juice_cartons"
+            },
+            "زجاجات عصير": {
+                "col": "juice_bottles"
+            },
+            "كيس عصير": {
+                "col": "juice_packet"
+            },
+            "زجاجات شاي مثلج": {
+                "col": "ice_tea_bottles"
+            },
+            "علبة شاي مثلج": {
+                "col": "ice_tea_can"
+            },
+            "علبة مشروب طاقة": {
+                "col": "energy_can"
+            },
+            "كوب الستايروفوم": {
+                "col": "styro_cup"
+            },
+            "مشروبات غازية (أخرى)": {
+                "col": "softDrinkOther"
+            }
+        }
+
+    // النظافة
+
+    "types": {
+            "واقي ذكري": {
+                "col": "condoms"
+            },
+            "حفاضات": {
+                "col": "nappies"
+            },
+            "حفاضة نسائية": {
+                "col": "menstrual"
+            },
+            "مزيل عرق": {
+                "col": "deodorant"
+            },
+            "مسحات الأذن": {
+                "col": "ear_swabs"
+            },
+            "عود اسنان": {
+                "col": "tooth_pick"
+            },
+            "فرشاة أسنان": {
+                "col": "tooth_brush"
+            },
+            "مناديل مبللة": {
+                "col": "wetwipes"
+            },
+            "النظافة (أخرى)": {
+                "col": "sanitaryOther"
+            }
+        }
+
+    // أخرى
+
+    "types": {
+            "إغراق غير قانوني": {
+                "col": "dump"
+            },
+            "براز حيوان أليف": {
+                "col": "dogshit"
+            },
+            "براز في كيس بلاستيك": {
+                "col": "pooinbag"
+            },
+            "بلاستيك غير معروف": {
+                "col": "plastic"
+            },
+            "لايف بوي": {
+                "col": "life_buoy"
+            },
+            "مخروط المرور": {
+                "col": "traffic_cone"
+            },
+            "سيارة": {
+                "col": "automobile"
+            },
+            "بالونات": {
+                "col": "balloons"
+            },
+            "بطاريات": {
+                "col": "batteries"
+            },
+            "ملابس": {
+                "col": "clothing"
+            },
+            "خردة إلكترونية (صغيرة)": {
+                "col": "elec_small"
+            },
+            "خردة إلكترونية (كبيرة)": {
+                "col": "elec_large"
+            },
+            "جسم معدني": {
+                "col": "metal"
+            },
+            "حقيبة بلاستيكية": {
+                "col": "plastic_bags"
+            },
+            "ملصقات انتخابية": {
+                "col": "election_posters"
+            },
+            "ملصقات البيع": {
+                "col": "forsale_posters"
+            },
+            "كتب": {
+                "col": "books"
+            },
+            "مجلات": {
+                "col": "magazine"
+            },
+            "ورق": {
+                "col": "paper"
+            },
+            "مواد مكتبية": {
+                "col": "stationary"
+            },
+            "زجاجة منظف": {
+                "col": "washing_up"
+            },
+            "ربطة شعر": {
+                "col": "hair_tie"
+            },
+            "سماعة": {
+                "col": "ear_plugs"
+            },
+            "أخرى (أخرى)": {
+                "col": "other"
+            }
+        }
+
+    // المنطقة الساحلية
+
+    "types": {
+            "جسيمات بلاستيكية": {
+                "col": "microplastics"
+            },
+            "بلاستيك متوسط": {
+                "col": "mediumplastics"
+            },
+            "بلاستيك كبير": {
+                "col": "macroplastics"
+            },
+            "حبل صغير​​ الحجم": {
+                "col": "rope_small"
+            },
+            "حبل متوسط ​​الحجم": {
+                "col": "rope_medium"
+            },
+            "حبل كبير ​​الحجم": {
+                "col": "rope_large"
+            },
+            "معدات الصيد/الشباك": {
+                "col": "fishing_gear_nets"
+            },
+            "عوامات": {
+                "col": "buoys"
+            },
+            "زجاجة بلاستيكية متحللة": {
+                "col": "degraded_plasticbottle"
+            },
+            "كيس بلاستيك متحلل": {
+                "col": "degraded_plasticbag"
+            },
+            "ماصات شرب متحللة": {
+                "col": "degraded_straws"
+            },
+            "ولاعة متحللة": {
+                "col": "degraded_lighters"
+            },
+            "بالونات": {
+                "col": "balloons"
+            },
+            "ألعاب تركيب (ليغو)": {
+                "col": "lego"
+            },
+            "خراطيش بندقية": {
+                "col": "shotgun_cartridges"
+            },
+            "ستايروفوم (صغير)": {
+                "col": "styro_small"
+            },
+            "ستايروفوم (متوسط)": {
+                "col": "styro_medium"
+            },
+            "ستايروفوم (كبير)": {
+                "col": "styro_large"
+            },
+            "المنطقة الساحلية (أخرى)": {
+                "col": "coastal_other"
+            }
+        }
