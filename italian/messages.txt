@@ -1,6 +1,6 @@
 <?php
 
-// Please leave the keys in English (first colunm eg lang, eg, welcome, welcomea....)
+// Please leave the keys in English (first column eg lang, eg, welcome, welcomea....)
 // Please change the Values to your language.
 // Thank you ! 
 
@@ -8,7 +8,7 @@ return [
 	'lang' => ‘Italian’
 	'en' => 'English',
 	'es' => 'Español',
-        ‘de’ => ‘German’,
+    'de' => 'German',
 	'fr' => 'Français',
 	'ie' => 'Gaeilge',
 	'ms' => 'Malay',
