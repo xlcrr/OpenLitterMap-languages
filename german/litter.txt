@@ -80,7 +80,7 @@
     // Essen
 
         "types": {
-            "Süssigkeiten Verpackung": {
+            "Süßigkeiten Verpackung": {
                 "col": "sweetWrappers"
             },
             "Papier/Karton-Verpackung": {
@@ -104,7 +104,7 @@
             "Servietten": {
                 "col": "napkins"
             },
-            "Sossen-Verpackung": {
+            "Soßen-Verpackung": {
                 "col": "sauce_packet"
             },
             "Einmachglas": {
@@ -145,7 +145,7 @@
             "Trinkhalm": {
                 "col": "straws"
             },
-            "Getränkverpackung": {
+            "Getränkeverpackung": {
                 "col": "strawpacket"
             },
             "Plastikbecher": {
@@ -227,10 +227,10 @@
             "Illegales Verschrotten": {
                 "col": "dump"
             },
-            "Hundescheisse": {
+            "Hundescheiße": {
                 "col": "dogshit"
             },
-            "Scheisse in Tüte: {
+            "Scheiße in Tüte: {
                 "col": "pooinbag"
             },
             "Unbekannter Plastik": {
@@ -313,7 +313,7 @@
             "Kurzes Seil": {
                 "col": "rope_small"
             },
-            "Mittelgrosses Seil": {
+            "Mittelgroßes Seil": {
                 "col": "rope_medium"
             },
             "Langes Seil": {
